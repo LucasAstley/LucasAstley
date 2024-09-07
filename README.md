@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my website](https://github.com/LucasAstley/lucas-astley.me)
 
-- 🌱 I’m currently learning **Java (sometimes...)**
+- 🌱 I’m currently learning **Go**
 
 - ⚡ Fun fact **I love Rick Astley**
 
