@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Astley</h1>
 <h3 align="center">IT Student and weekend developer</h3>
 
-- 🔭 I’m currently working on [my website](https://github.com/LucasAstley/lucas-astley.me)
+- 🔭 I’m currently working on [my website](https://lucasastley.github.io)
 
 - 🎓 I’m currently learning **Go** and **Docker** at [Toulouse Ynov Campus](https://www.ynov.com/campus/toulouse)
 
