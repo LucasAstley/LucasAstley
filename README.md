@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Astley</h1>
-<h3 align="center">IT Student and weekend developer</h3>
+<h3 align="center">IT French student and tech lover</h3>
 
 - 🔭 I’m currently working on [my website](https://lucasastley.github.io)
 
