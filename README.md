@@ -5,6 +5,8 @@
 
 - 🎓 I’m currently learning **Go** and **Docker** at [Toulouse Ynov Campus](https://www.ynov.com/campus/toulouse)
 
+- 🧑‍💻 I'm working in a [cool RPG Musical](https://ymuse.fr/) student project as infrastructure manager
+
 - ⚡ Fun fact **I love Rick Astley**
 
 <h3 align="left">Connect with me:</h3>
